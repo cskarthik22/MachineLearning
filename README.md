@@ -19,4 +19,7 @@
 - https://greenteapress.com/complexity/thinkcomplexity.pdf
 - https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
 
+## Computer Science Books
+- The New Turing Omnibus_ 66 Excursions In Computer Science
+
   
