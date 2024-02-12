@@ -1,7 +1,6 @@
 # MachineLearning
 
-
-- TENSOR: https://www.youtube.com/watch?v=f5liqUk0ZTw
+- [Tensor](https://www.youtube.com/watch?v=f5liqUk0ZTw)
 - https://course.fast.ai/
 - https://www.neelnanda.io/mechanistic-interpretability/prereqs
 - https://jalammar.github.io/illustrated-transformer/
