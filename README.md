@@ -17,5 +17,6 @@
 - https://allendowney.github.io/ThinkBayes2/chap01.html
 - https://allendowney.github.io/DSIRP/index.html#
 - https://greenteapress.com/complexity/thinkcomplexity.pdf
+- https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
 
   
