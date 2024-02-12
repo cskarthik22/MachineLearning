@@ -11,5 +11,8 @@
 - https://distill.pub/2021/understanding-gnns/
 - https://www.danfleisch.com/laplace/
 - https://betterexplained.com/articles/category/math/vector-calculus/
-- 
+
+## Python
+- https://allendowney.github.io/ThinkBayes2/chap01.html
+
   
