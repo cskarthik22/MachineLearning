@@ -13,6 +13,9 @@
 - https://betterexplained.com/articles/category/math/vector-calculus/
 
 ## Python
+
 - https://allendowney.github.io/ThinkBayes2/chap01.html
+- https://allendowney.github.io/DSIRP/index.html#
+- https://greenteapress.com/complexity/thinkcomplexity.pdf
 
   
