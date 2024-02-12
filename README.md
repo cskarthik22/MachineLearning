@@ -2,6 +2,7 @@
 
 - [Tensor](https://www.youtube.com/watch?v=f5liqUk0ZTw)
 - https://machinelearningmastery.com/start-here/
+- https://www.jonkrohn.com/
 - https://course.fast.ai/
 - https://www.neelnanda.io/mechanistic-interpretability/prereqs
 - https://jalammar.github.io/illustrated-transformer/
