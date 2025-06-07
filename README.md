@@ -22,4 +22,6 @@
 ## Computer Science Books
 - The New Turing Omnibus_ 66 Excursions In Computer Science
 
+- https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction 
+
   
