@@ -13,3 +13,6 @@
 - Qwen from Alibaba Cloud
 - Gemma from Google
 - Phi from Microsoft
+
+## RAG
+- https://github.com/langchain-ai/rag-from-scratch 
