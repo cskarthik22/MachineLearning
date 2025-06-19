@@ -38,4 +38,8 @@
 
 - https://simonwillison.net/2023/Oct/23/embeddings/
 - https://python.langchain.com/docs/concepts/embedding_models/
-- https://developers.google.com/machine-learning/clustering/dnn-clustering/supervised-similarity 
+- https://developers.google.com/machine-learning/clustering/dnn-clustering/supervised-similarity
+
+## MCP, ADK and A2A
+
+- https://codelabs.developers.google.com/codelabs/currency-agent?hl=en#0
