@@ -21,6 +21,10 @@
   <img width="947" alt="image" src="https://github.com/user-attachments/assets/f039fee4-ca32-473f-93ee-5ed16472609d" />
 
 ## RAG
+
+<img width="816" alt="image" src="https://github.com/user-attachments/assets/62afc7a2-0926-489b-a610-52572fe19c96" />
+
+
 - https://github.com/langchain-ai/rag-from-scratch
 - https://www.pinecone.io/learn/retrieval-augmented-generation/
   ![image](https://github.com/user-attachments/assets/fff413a1-e702-4bd6-8b60-fa69660a135c)
