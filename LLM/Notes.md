@@ -46,6 +46,10 @@
 
 <img width="803" alt="image" src="https://github.com/user-attachments/assets/e10f5991-c743-404a-b797-589f4174ded0" />
 
+https://www.pinecone.io/learn/a-developers-guide-to-ann-algorithms/
+<img width="796" alt="image" src="https://github.com/user-attachments/assets/a1477ab6-2e64-4f87-b596-8181a678d81d" />
+
+
 
 ## MCP, ADK and A2A
 
