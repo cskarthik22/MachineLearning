@@ -33,6 +33,9 @@
 
   <img width="779" alt="image" src="https://github.com/user-attachments/assets/fbbddbab-2711-4223-8a8a-fbe9d45f8d36" />
 
+  <img width="810" alt="image" src="https://github.com/user-attachments/assets/e545baad-d51b-4df3-abd7-21b134cb7ee5" />
+
+
  
 
 - https://www.pinecone.io/learn/llm-ecosystem/ 
