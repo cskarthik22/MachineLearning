@@ -30,7 +30,10 @@
 - Large language models (LLMs) are defined by the number of parameters, also called weights, which control their output.
 - Traditional machine learning models typically have between 20 and 200 parameters, whereas LLMs have millions to trillions of parameters.
 - LLM Models are trained and operated by tokens - https://platform.openai.com/tokenizer
-  <img width="779" alt="image" src="https://github.com/user-attachments/assets/22377654-c506-475b-acc6-17f8b31fb4cc" />
+
+  <img width="779" alt="image" src="https://github.com/user-attachments/assets/fbbddbab-2711-4223-8a8a-fbe9d45f8d36" />
+
+ 
 
 - https://www.pinecone.io/learn/llm-ecosystem/ 
 - https://www.gradio.app/
