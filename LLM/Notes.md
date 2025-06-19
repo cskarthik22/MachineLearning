@@ -42,7 +42,10 @@
 - https://simonwillison.net/2023/Oct/23/embeddings/
 - https://python.langchain.com/docs/concepts/embedding_models/
 - https://developers.google.com/machine-learning/clustering/dnn-clustering/supervised-similarity
-- https://www.pinecone.io/learn/vector-similarity/ 
+- https://www.pinecone.io/learn/vector-similarity/
+
+<img width="803" alt="image" src="https://github.com/user-attachments/assets/e10f5991-c743-404a-b797-589f4174ded0" />
+
 
 ## MCP, ADK and A2A
 
