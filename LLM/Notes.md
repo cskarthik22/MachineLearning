@@ -22,6 +22,9 @@
 
 ## RAG
 - https://github.com/langchain-ai/rag-from-scratch
+- https://www.pinecone.io/learn/retrieval-augmented-generation/
+  ![image](https://github.com/user-attachments/assets/fff413a1-e702-4bd6-8b60-fa69660a135c)
+
 
 ### Overview of LLM
 - Large language models (LLMs) are defined by the number of parameters, also called weights, which control their output.
