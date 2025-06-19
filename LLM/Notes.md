@@ -59,4 +59,5 @@ https://www.pinecone.io/learn/a-developers-guide-to-ann-algorithms/
 ## Langchain AI Handbook
 
 - https://www.pinecone.io/learn/series/langchain/
-- https://github.com/pinecone-io/examples/blob/master/learn/generation/langchain/handbook/00-langchain-intro.ipynb 
+- https://github.com/pinecone-io/examples/blob/master/learn/generation/langchain/handbook/00-langchain-intro.ipynb
+- https://www.youtube.com/watch?v=Cyv-dgv80kE&list=PLIUOU7oqGTLjxUvwh8pIulPfPNHGNlz3-
