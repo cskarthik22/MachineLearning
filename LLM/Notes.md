@@ -78,5 +78,13 @@ https://www.pinecone.io/learn/a-developers-guide-to-ann-algorithms/
 
 - https://d2l.ai/chapter_linear-regression/index.html
 
+## Attention Mechanism
+
+<img width="1265" alt="image" src="https://github.com/user-attachments/assets/a195f922-e80a-479c-853d-d425e8f7dd72" />
+
+
+- https://erdem.pl/2021/05/introduction-to-attention-mechanism 
+
 ## Python Packaging
+
 - https://www.youtube.com/watch?v=0SPqMR08VWU
