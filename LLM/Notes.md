@@ -76,4 +76,7 @@ https://www.pinecone.io/learn/a-developers-guide-to-ann-algorithms/
 
 ## Dive into Deep Learning
 
-- https://d2l.ai/chapter_linear-regression/index.html 
+- https://d2l.ai/chapter_linear-regression/index.html
+
+## Python Packaging
+- https://www.youtube.com/watch?v=0SPqMR08VWU
