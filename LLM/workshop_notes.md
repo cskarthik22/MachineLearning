@@ -394,4 +394,5 @@ Where:
 - https://console.runpod.io/deploy?type=GPU
 - https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#why-the-question-nobody-wants-to-answer
 - https://www.ideaweaver.ai/l/dashboard
+- https://stanford.edu/~shervine/
   
