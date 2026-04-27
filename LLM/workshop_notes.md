@@ -385,3 +385,12 @@ Where:
 **When and Where is KV Cache Applied?**
 - KV cache is used during inference (not training) in autoregressive transformer models (e.g., GPT, Llama, etc.).
 - It is essential for efficient text generation, chatbots, and any application where the model generates sequences token by token.
+
+## Reference links
+- https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4
+- https://www.deeplearning.ai/short-courses/pretraining-llms/
+- https://github.com/ideaweaver-ai/building-gemma4-from-scratch/blob/dev/build_tokenizer.py
+- https://huggingface.co/spaces/lakhera2023/gemma4-nano-tinystories-demo
+- https://console.runpod.io/deploy?type=GPU
+- https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#why-the-question-nobody-wants-to-answer
+  
