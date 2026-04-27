@@ -393,4 +393,5 @@ Where:
 - https://huggingface.co/spaces/lakhera2023/gemma4-nano-tinystories-demo
 - https://console.runpod.io/deploy?type=GPU
 - https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#why-the-question-nobody-wants-to-answer
+- https://www.ideaweaver.ai/l/dashboard
   
